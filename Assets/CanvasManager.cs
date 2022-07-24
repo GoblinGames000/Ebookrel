@@ -97,5 +97,9 @@ public class CanvasManager : MonoBehaviour
     {
         Sound_Manager.instance.PlayOnshootSound(Sound_Manager.instance.buttonClick);
       Fade.Instance.LoadScene("QuizGame");
+    }public void OnClickCColorGame()
+    {
+        Sound_Manager.instance.PlayOnshootSound(Sound_Manager.instance.buttonClick);
+      Fade.Instance.LoadScene("ColorGame");
     }
 }

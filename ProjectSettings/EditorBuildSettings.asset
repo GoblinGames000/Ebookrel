@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CardGame.unity
     guid: 14f591f519a2f0744a8d7eeb5a2e2be2
+  - enabled: 1
+    path: Assets/Scenes/ColorGame.unity
+    guid: 551e9cdc487488d4dab3668ce0596f3c
   m_configObjects: {}

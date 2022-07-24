@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "426477182976",
+    "project_id": "ebookrel",
+    "storage_bucket": "ebookrel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426477182976:android:4ceefd7cf5c218b9d478e5",
+        "android_client_info": {
+          "package_name": "com.olah.ebook2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426477182976-mf905homgcea49m86uok5250qdkgm9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0JYwzUOhO3-IA16ncAuNscl9ZeLWxFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426477182976-mf905homgcea49m86uok5250qdkgm9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426477182976-tm4g9lbdaej3umfq0gqm6rrrp2iupqpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olah.ebook2022"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
